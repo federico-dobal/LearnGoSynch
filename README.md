@@ -10,3 +10,5 @@ These are the exercises we can find:
 * Two exercises usinf matrices
 * Printing out numbers on a synchronised manner 
 * Py calculation
+
+For details please read Readme file on each problem directory.
